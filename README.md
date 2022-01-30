@@ -1,6 +1,6 @@
 # mmr-kel-2-Kris
 
-Project MMR, Museum of Kris
+MMR Project, Museum of Kris
 
 ・Kelompok 2:
 - Fabianaugie jametoni - 2301927462
