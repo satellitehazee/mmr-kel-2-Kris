@@ -13,7 +13,7 @@ MMR Project, Museum of Kris
 https://youtu.be/wwTv83fUlqs
 
 ・Project Files & Resources:
-https://drive.google.com/drive/u/0/folders/1GlJ1EfkywR1GrgbgJE5Y9t3gnvpJYuw_
+https://drive.google.com/drive/folders/1GlJ1EfkywR1GrgbgJE5Y9t3gnvpJYuw_?usp=sharing
 
 ・Softwares:
 - Unity 2020.13.19f1
