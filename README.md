@@ -17,8 +17,11 @@ https://drive.google.com/drive/folders/1GlJ1EfkywR1GrgbgJE5Y9t3gnvpJYuw_?usp=sha
 
 ・Softwares:
 - Unity 2020.13.19f1
-- Vuforia Engine
-- Voxel
+https://unity.com/
+- Vuforia AR Engine
+https://developer.vuforia.com/
+- MagicaVoxel
+https://ephtracy.github.io/
 
 ・Credits:
 - Kris model by Ignatius Christanto
