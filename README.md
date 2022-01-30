@@ -25,6 +25,7 @@ https://ephtracy.github.io/
 
 ・Credits:
 - Kris model by Ignatius Christanto
+https://www.linkedin.com/in/ignatius-christanto-b248bb207/
 - Kris references by Kerisaji
 https://kerisaji.com/macam-macam-dapur-keris-lurus/ 
 - Kris description by Kemdikbud
